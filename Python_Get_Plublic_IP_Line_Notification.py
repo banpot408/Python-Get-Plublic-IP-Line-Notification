@@ -5,7 +5,7 @@ import requests, json
 import urllib.parse
 import sys
 
-LINE_ACCESS_TOKEN = "fgxqjVlCMbqWiwUTA9JHKxYzzrmfSWvvCgr3VhNpsUF"
+LINE_ACCESS_TOKEN = "fgxqjVlCMbqWiwUTA9JHKxYzzrmfSWvvC----------"
 URL_LINE = "https://notify-api.line.me/api/notify" 
 data = [8,9,10,11,12,13,14,15,16,17,18]
 
